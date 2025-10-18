@@ -1,0 +1,336 @@
+{
+  "domains": [
+    {
+      "name": "Blockchain",
+      "description": "Explores decentralized technologies, smart contracts, and blockchain applications.",
+      "lead": "Md Moinuddin",
+      "lead_image": "/photos/moenuddin.jpg",
+      "co_leads": ["Prasanna Villa"],
+      "co_leads_images": ["/photos/prasanna.jpg"],
+      "events": [
+        {
+          "name": "Crypto Countdown: Final Block of 2024",
+          "date": "27th & 28th December 2024",
+          "description": "Crypto Countdown was a two-day online seminar covering blockchain fundamentals, decentralized finance (DeFi), smart contracts, and the future of Web3. Industry experts provided insights into blockchain's impact on business and security.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/cryptocountdown/1.jpg",
+            "image2": "/events/cryptocountdown/2.jpg",
+            "image3": "/events/cryptocountdown/3.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Competitive Programming",
+      "description": "Focuses on problem-solving, algorithms, and competitive programming challenges.",
+      "lead": "Sai Prasanna",
+      "lead_image": "/photos/prasanna.jpg",
+      "co_leads": ["Ch Likitha", "Rushitha Datta"],
+      "co_leads_images": ["/photos/leteefa.jpg", "/photos/riishhe.jpeg"],
+      "events": [
+        {
+          "name": "Output Unveiled",
+          "date": "7th December 2024",
+          "description": "Output Unveiled was an intense coding contest where participants solved 16 programming challenges in C and C++, unlocking each level with the output of the previous question. It tested logical thinking, debugging, and problem-solving skills.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/output/1.jpg",
+            "image2": "/events/output/2.jpg",
+            "image3": "/events/output/3.jpg"
+          }
+        },
+        {
+          "name": "PyMind",
+          "date": "7th December 2024",
+          "description": "PyMind was an engaging Python-based quiz competition for first-year students. Covering basic to advanced Python topics, the quiz provided a competitive yet supportive environment to test and enhance programming skills.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/pymind/1.jpg",
+            "image2": "/events/pymind/2.jpg",
+            "image3": "/events/pymind/3.jpg"
+          }
+        },
+        {
+          "name": "Master The Code",
+          "date": "14th Feb 2025",
+          "description": "A timed coding competition with algorithmic challenges to test participants' problem-solving skills and coding speed.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/masterthecode/1.jpg",
+            "image2": "/events/masterthecode/2.jpg",
+            "image3": "/events/masterthecode/3.jpg"
+          }
+        }
+      ]
+    },
+        {
+      "name": "DSA",
+      "description": "Focuses on problem-solving, algorithms, and competitive programming challenges.",
+      "lead": "Lakshmi Raj",
+      "lead_image": "/photos/prasanna.jpg",
+      "co_leads": ["Akula Uhanjani", "L.L Vasundhara"],
+      "co_leads_images": ["/photos/leteefa.jpg", "/photos/riishhe.jpeg"],
+      "events": [
+        {
+          "name": "Output Unveiled",
+          "date": "7th December 2024",
+          "description": "Output Unveiled was an intense coding contest where participants solved 16 programming challenges in C and C++, unlocking each level with the output of the previous question. It tested logical thinking, debugging, and problem-solving skills.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/output/1.jpg",
+            "image2": "/events/output/2.jpg",
+            "image3": "/events/output/3.jpg"
+          }
+        },
+        {
+          "name": "PyMind",
+          "date": "7th December 2024",
+          "description": "PyMind was an engaging Python-based quiz competition for first-year students. Covering basic to advanced Python topics, the quiz provided a competitive yet supportive environment to test and enhance programming skills.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/pymind/1.jpg",
+            "image2": "/events/pymind/2.jpg",
+            "image3": "/events/pymind/3.jpg"
+          }
+        },
+        {
+          "name": "Master The Code",
+          "date": "14th Feb 2025",
+          "description": "A timed coding competition with algorithmic challenges to test participants' problem-solving skills and coding speed.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/masterthecode/1.jpg",
+            "image2": "/events/masterthecode/2.jpg",
+            "image3": "/events/masterthecode/3.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "description": "Covers cloud services, deployment, and scaling applications.",
+      "lead": "Asmitha",
+      "lead_image": "/photos/asmitha.jpg",
+      "co_leads": ["Anvita", "Sarat"],
+      "co_leads_images": ["/photos/anvita.jpg", "/photos/vamsi.jpg"],
+      "events": [
+        {
+          "name": "Explore the cloud",
+          "date": "22nd August 2025",
+          "description": "To educate students on the cloud computing and strengthen their ability in cloud through an interactive.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/explore_cloud/1.jpg",
+            "image2": "/events/explore_cloud/2.jpg",
+            "image3": "/events/explore_cloud/3.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "description": "Focuses on ethical hacking, cryptography, and securing applications.",
+      "lead": "Vamsidhar Reddy",
+      "lead_image": "/photos/vamsi.jpg",
+      "co_leads": ["Harsha Vardhan", "Hari Hara Charan"],
+      "co_leads_images": ["/photos/harisai.jpg", "/photos/kushal.jpg"],
+      "events": [
+        {
+          "name": "Cyber Hive",
+          "date": "30th November 2024",
+          "description": "Cyber Hive was an interactive seminar focused on cybersecurity awareness, scam prevention, and career opportunities in cybersecurity and networking. It featured live demonstrations of security threats and best practices for digital safety.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/cyberhive/1.jpg",
+            "image2": "/events/cyberhive/2.jpg",
+            "image3": "/events/cyberhive/3.jpg"
+          }
+        },
+        {
+          "name": "Catch The Phish",
+          "date": "28th March 2025",
+          "description": "To educate students on the dangers of phishing attacks and strengthen their ability to recognize and mitigate cyber threats through an interactive and engaging competition.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/Catch_the_phish/1.jpg",
+            "image2": "/events/Catch_the_phish/2.jpg",
+            "image3": "/events/Catch_the_phish/3.jpg"
+          }
+        },
+        {
+          "name": "Decode the World of Cybersecurity",
+          "date": "11th October 2025",
+          "description": "To educate students on Bug Bounties, CTFs, and strengthen their ability in Cybersecurity through an interactive and engaging competition.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/decode_world/1.jpg",
+            "image2": "/events/decode_world/1.jpg",
+            "image3": "/events/decode_world/1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Data Analytics",
+      "description": "Covers data visualization, machine learning, and big data analytics.",
+      "lead": "Navya Sri",
+      "lead_image": "/photos/navyasri.jpg",
+      "co_leads": ["Kishore", "Bhaskar"],
+      "co_leads_images": ["/photos/kushal.jpg", "/photos/aravind.jpg"],
+      "events": [
+        {
+          "name": "DataSprint - Crack the data, Win the sprint",
+          "date": "",
+          "description": "",
+          "participants": 50,
+          "images": {
+            "image1": "/events/dataSprint/1.jpg",
+            "image2": "/events/dataSprint/2.jpg",
+            "image3": "/events/dataSprint/3.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Networking",
+      "description": "Covers network protocols, security, and system communication.",
+      "lead": "S S Poojitha",
+      "lead_image": "/photos/poojitha.jpg",
+      "co_leads": ["Riishhe Sree", "Ramjanvali"],
+      "co_leads_images": ["/photos/riishhe.jpeg", "/photos/laxmi.jpg"],
+      "events": [
+        {
+          "name": "Cyber Hive",
+          "date": "30th November 2024",
+          "description": "Cyber Hive was an interactive seminar focused on cybersecurity awareness, scam prevention, and career opportunities in cybersecurity and networking. It featured live demonstrations of security threats and best practices for digital safety.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/cyberhive/1.jpg",
+            "image2": "/events/cyberhive/2.jpg",
+            "image3": "/events/cyberhive/3.jpg"
+          }
+        },
+        {
+          "name": "Decode the World of Cybersecurity",
+          "date": "11th October 2025",
+          "description": "To educate students on Bug Bounties, CTFs, and strengthen their ability in Cybersecurity through an interactive and engaging competition.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/decode_world/1.jpg",
+            "image2": "/events/decode_world/1.jpg",
+            "image3": "/events/decode_world/1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Web Development",
+      "description": "Explores frontend and backend web technologies.",
+      "lead": "Varma",
+      "lead_image": "/photos/varma.jpg",
+      "co_leads": ["Sai Reshmitha", "Bharat"],
+      "co_leads_images": ["/photos/lavanya.jpg", "/photos/rithvik.jpeg"],
+      "events": [
+        {
+          "name": "GET GIT GO – Master Version Control",
+          "date": "7th February 2025",
+          "description": "A structured, practical workshop on Git and GitHub, including real-world applications and best practices.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/getgitgo/1.jpg",
+            "image2": "/events/getgitgo/2.jpg",
+            "image3": "/events/getgitgo/3.jpg"
+          }
+        },
+        {
+          "name": "UI Forge",
+          "date": "7th August 2025",
+          "description": "We'll give a prompt to everyone to implement, and after completing it we'll conduct voting. The one who gets the most votes for the best implementation will be the winner.",
+          "participants": 50,
+          "images": {
+            "image1": "",
+            "image2": "",
+            "image3": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "Club Activities",
+      "description": "Fun, engaging, and community-building events organized under AsCI to boost creativity, collaboration, and technical enthusiasm.",
+      "lead": "",
+      "lead_image": "",
+      "co_leads": [],
+      "co_leads_images": [],
+      "events": [
+        {
+          "name": "Tech_Quiz",
+          "date": "5th October 2024",
+          "description": "The Online Quiz Contest held during the inauguration of the Association of Computer Intellects (AsCI) was a highly engaging and informative event. Designed to test participants' knowledge of computer science and technology.",
+          "participants": 150,
+          "images": {
+            "image1": "/events/inaug/1.jpg",
+            "image2": "/events/inaug/2.jpg",
+            "image3": "/events/inaug/3.jpg"
+          }
+        },
+        {
+          "name": "LOLgorithms",
+          "date": "5th October 2024",
+          "description": "LOLgorithms was a unique meme-making contest where students used humor to explain technical concepts related to algorithms and computer science.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/lol/1.jpg",
+            "image2": "/events/lol/2.jpg",
+            "image3": "/events/lol/3.jpg"
+          }
+        },
+        {
+          "name": "Mindware",
+          "date": "",
+          "description": "",
+          "participants": 50,
+          "images": {
+            "image1": "",
+            "image2": "",
+            "image3": ""
+          }
+        },
+        {
+          "name": "Skill Over Knowledge – Thriving in the AI Era",
+          "date": "19th February 2025",
+          "description": "The event highlighted the growing importance of hands-on skills over theoretical knowledge in today’s education system.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/skill_ai/1.jpg",
+            "image2": "/events/skill_ai/2.jpg",
+            "image3": "/events/skill_ai/3.jpg"
+          }
+        },
+        {
+          "name": "Android Dev Sprint",
+          "date": "24th Feb 2025",
+          "description": "A hands-on workshop aimed at introducing 1st and 2nd-year students to the fundamentals of Android development.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/Android/img-1.jpg",
+            "image2": "/events/Android/img-2.jpg",
+            "image3": "/events/Android/img-3.jpg"
+          }
+        },
+        {
+          "name": "Byte the Byte",
+          "date": "3rd April 2025 & 4th April 2025",
+          "description": "A two-day workshop conducted on Linux Commands, GitHub, and Programming Language.",
+          "participants": 50,
+          "images": {
+            "image1": "/events/Byte_the_Byte/1.jpg",
+            "image2": "/events/Byte_the_Byte/2.jpg",
+            "image3": "/events/Byte_the_Byte/3.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
