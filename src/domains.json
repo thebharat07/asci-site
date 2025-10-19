@@ -110,10 +110,10 @@
     {
       "name": "Cloud Computing",
       "description": "Covers cloud services, deployment, and scaling applications.",
-      "lead": "Asmitha",
-      "lead_image": "/photos/asmitha.jpg",
-      "co_leads": ["Anvita", "Sarat"],
-      "co_leads_images": ["/photos/anvita.jpg", "/photos/vamsi.jpg"],
+      "lead": "Ashmitha",
+      "lead_image": "/photos/ashmitha.jpg",
+      "co_leads": ["Anvitha", "Sarat"],
+      "co_leads_images": ["/photos/anvitha.jpg", "/photos/vamsi.jpg"],
       "events": [
         {
           "name": "Explore the cloud",

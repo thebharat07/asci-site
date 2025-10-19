@@ -109,7 +109,7 @@ const Team = () => {
     },
     {
       image: "/photos/asmitha.jpg",
-      name: "Asmitha",
+      name: "Ashmitha",
       role: "Cloud Computing Lead ",
       handle: "",
       url: "https://www.linkedin.com/in/ashmitha-yenimireddy-617581290/",

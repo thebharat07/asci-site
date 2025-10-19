@@ -85,7 +85,7 @@ const handleSubmit = (e) => {
           </p>
         </div>
 
-        <div className="flex justify-center items-center  gap-8 mb-12">
+        <div className="flex flex-col md:flex-row justify-center items-center  gap-8 mb-12">
           {contactInfo.map((info, index) => {
             const Icon = info.icon;
             return (
